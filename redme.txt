@@ -10,3 +10,17 @@
           <img src="./images/model.png" alt="">
         </div>
  </section>
+
+
+ /** container card of woman jacket *//
+
+ <div class="max-w-max clo shadow-inner bg-slate-200     justify-center">
+              <div class="w-72 p-4 bg-gray-200 rounded-lg object-contain"><img src="./images/jacket-1.png" alt=""></div>
+              <h5 class="w-72 text-2xl p-3 font-bold">Yellow Coat Jacket </h5>
+              <p class="w-72 p-2 text-base font-normal">Lorem Ipsum is simply dummy text of the 
+                printing and typesetting industry.</p>
+              <div class="flex gap-16 py-4  ">
+                <h5 class="text-[#FABE4C] text-4xl ">$234</h5>
+                <button class="btn btn-outline btn-success bg-amber-950 border-transparent ">BUY NOW</button>
+              </div>
+            </div>
