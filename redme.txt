@@ -1,0 +1,12 @@
+<section> <!--hero section-->
+        <div>
+          <h1><span>BE THE PENGUINS</span>
+            OF WINTER
+          </h1>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Obcaecati ratione sint debitis fugiat.</p>
+          <button>BUY NOW</button>
+        </div>
+        <div>
+          <img src="./images/model.png" alt="">
+        </div>
+ </section>
